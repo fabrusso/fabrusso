@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I work mainly with private repositories, sorry you can't find much of me on this page. 
+
 - 🔭 I’m currently working with Matchplat (super cool people)
 - 🌱 I’m currently learning stuff that I will never learn for real 😅
 - 💬 Ask me about JS, Web, Books
